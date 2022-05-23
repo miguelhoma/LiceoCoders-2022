@@ -1,0 +1,35 @@
+.box {
+    border: 1px;
+    background: red;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.box_dos {
+    border: 1px;
+    background:green;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.box_tres {
+    border: 1px;
+    background:blue;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.box_cuatro {
+    border: 1px;
+    background:yellow;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.box_cinco {
+    border: 1px;
+    background:black;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
